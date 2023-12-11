@@ -12,10 +12,9 @@
 
 ## About the Project 
 This project investigates several different convolutional neural network (CNN) architectures 
-and adapts them to the task of malignant (cancerous) mole identification. Melanoma skin cancers have a 5-year survival rate of nearly 99% when detected and treated early. Around 30\% of existing moles arise from malignant moles. Though these malignant moles can be idenitfied and removed by dermatologists they are generally difficult for an untrained professional to distinguish a malginant mole from a benign mole. Thus, early detection of malignant moles often relies on regular visits to a dermatologist. 
+and adapts them to the task of malignant (cancerous) mole identification. Melanoma skin cancers have a 5-year survival rate of nearly 99% when detected and treated early. Around 30\% of existing moles arise from malignant moles. Though these malignant moles can be identified and removed by dermatologists it is generally difficult for an untrained professional to distinguish a malginant mole from a benign mole. Thus, early detection of malignant moles often relies on regular visits to a dermatologist. 
 
-This project aims to adapt CNN to the task of identifying malignant moles. The trained CNNs may improve the ability of people to detect malignant moles early by providing them with a method of identifying malignant moles from home. 
-
+This project aims to adapt CNNs to the task of identifying malignant moles. The trained CNNs may improve the ability of people to detect malignant moles early by providing them with a method of identifying malignant moles from home. 
 
 ## Dataset 
 The dataset used for this project is publicly-available from 
