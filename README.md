@@ -1,7 +1,7 @@
 <h1 align="center":> Convolutional Neural Networks (CNNs) to Identify Malignant Moles </h1>
 
 <p align="center">
-  <img src="/readme_images/credit_delinquency.jpeg" alt="credit_delinquency" width="50%" />
+  <img src="/readme_images/mole.jpeg" alt="mole" width="50%" />
 </p>
 
 ## Table of Contents 
